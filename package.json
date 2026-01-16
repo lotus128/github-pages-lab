@@ -1,0 +1,18 @@
+{
+  "name": "lotus128-github-io",
+  "type": "module",
+  "homepage": "https://github.com/lotus128/lotus128.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/lotus128/lotus128.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lotus128/lotus128.github.io.git"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  },
+  "scripts": {
+    "start": "web-dev-server"
+  }
+}
